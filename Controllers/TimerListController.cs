@@ -11,6 +11,8 @@ public class TimerListController : ControllerBase
     [HttpGet("get.{format}"), FormatFilter]
     public IEnumerable<myList> Get()
     {
+    
+        // Linq to sql can be useful here to get data from RDMS using Entity Framework
         List<myList> timerOrderList = new List<myList>{
 
             new myList{Description = "Table", Count = 2},
@@ -18,6 +20,12 @@ public class TimerListController : ControllerBase
         };
         return timerOrderList;
     }
+    
+    /// Other methods can be implemeted below.
+    //getbyId
+    //post
+    //Put
+    //Delet
 
     /*[httpPost("post.{format}"), FormatFilter]
     public myList post([FromBody] myList mylist){
