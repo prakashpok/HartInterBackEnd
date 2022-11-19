@@ -7,6 +7,8 @@ builder.Services.AddControllers(options => options.RespectBrowserAcceptHeader = 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+//pp Cors can be set as Environmental veriable on CI/CD pipeline
 builder.Services.AddCors((setup)=>
 {
     setup.AddPolicy("default", (options)=>
