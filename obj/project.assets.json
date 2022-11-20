@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/prakashpokhrel/Desktop/HartIntercivicProject/HartInterCivicCodingAssignment/HartIntercivicBackEndWebAPI/HartIntercivicBackEndWebAPI.csproj",
+      "projectUniqueName": "/Users/prakashpokhrel/Desktop/HartIntercodinProject/HartInterCivicCodingAssignment/HartIntercivicBackEndWebAPI/HartIntercivicBackEndWebAPI.csproj",
       "projectName": "HartIntercivicBackEndWebAPI",
-      "projectPath": "/Users/prakashpokhrel/Desktop/HartIntercivicProject/HartInterCivicCodingAssignment/HartIntercivicBackEndWebAPI/HartIntercivicBackEndWebAPI.csproj",
+      "projectPath": "/Users/prakashpokhrel/Desktop/HartIntercodinProject/HartInterCivicCodingAssignment/HartIntercivicBackEndWebAPI/HartIntercivicBackEndWebAPI.csproj",
       "packagesPath": "/Users/prakashpokhrel/.nuget/packages/",
-      "outputPath": "/Users/prakashpokhrel/Desktop/HartIntercivicProject/HartInterCivicCodingAssignment/HartIntercivicBackEndWebAPI/obj/",
+      "outputPath": "/Users/prakashpokhrel/Desktop/HartIntercodinProject/HartInterCivicCodingAssignment/HartIntercivicBackEndWebAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
